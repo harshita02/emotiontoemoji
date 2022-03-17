@@ -1,1 +1,1 @@
-# emotiontoemoji
+# emotion-to-emoji-application
